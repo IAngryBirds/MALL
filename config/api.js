@@ -2,7 +2,10 @@ const ApiRootUrl = 'https://api.ilbli.com/api/';
 
 module.exports = {
   GetBanner: ApiRootUrl +'Index/GetBanner',//首页轮播图
-  // IndexUrl: ApiRootUrl + 'index/index', //首页数据接口
+  GetNews: ApiRootUrl +'Index/GetNews',//新品推荐
+  GetHots: ApiRootUrl + 'Index/GetHots',//食惠购
+  
+  GetGoodsList:ApiRootUrl+'List/GetList',//获取分类页数据
   // CatalogList: ApiRootUrl + 'catalog/index',  //分类目录全部分类数据接口
   // CatalogCurrent: ApiRootUrl + 'catalog/current',  //分类目录当前分类数据接口
 

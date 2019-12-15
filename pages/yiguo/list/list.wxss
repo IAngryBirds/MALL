@@ -40,7 +40,7 @@ page{
 .list-text {
   font-size: 14px;
   color: #666666;
-  background: url(/images/icons/btn-tabs_09.png) no-repeat right center;
+  background: image('/images/icons/btn-tabs_09.png') no-repeat right center;
   background-size:60rpx;
 }
 .list-text .name{

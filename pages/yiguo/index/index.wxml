@@ -26,7 +26,7 @@
   <text class="hg-title">新品推荐</text>
         <view class='gooditem'>
             <view class='imgview' wx:key="index"  wx:for="{{newgoods}}" wx:for-index="idx" wx:for-item="good">
-              <image class='productimg' src='{{good.hg_pic}}'/>
+              <image class='productimg' src='{{good.Pic_url}}'/>
             </view>
         </view>
 </view>
@@ -35,7 +35,7 @@
   <text class="hg-title">超值买</text>
         <view class='gooditem'>
             <view class='imgview' wx:key="index"  wx:for="{{newgoods}}" wx:for-index="idx" wx:for-item="good">
-              <image class='productimg' src='{{good.hg_pic}}'/>
+              <image class='productimg' src='{{good.Pic_url}}'/>
             </view>
         </view>
 </view>
@@ -44,7 +44,7 @@
   <view class="hot-title">食惠购</view>
         <view class='hot-gooditem'>
             <view class='hot-imgview' wx:key="index"  wx:for="{{hotgoods}}" wx:for-index="idx" wx:for-item="hot">
-              <image class='hot-product' src='{{hot.more_pic}}'/>
+              <image class='hot-product' src='{{hot.Pic_url}}'/>
             </view>
         </view>
 </view>

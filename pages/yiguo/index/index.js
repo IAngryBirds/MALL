@@ -15,25 +15,8 @@ Page({
     autoplay: true,
     interval: 3000,
     duration: 100,
-    newgoods: [
-      {
-        "hg_pic": "http://img14.yiguoimg.com/e/ad/2016/160914/585749449477366062_260x320.jpg"
-      }, {
-        "hg_pic": "http://img09.yiguoimg.com/e/ad/2016/161011/585749449909281099_260x320.jpg"
-      }, {
-        "hg_pic": "http://img12.yiguoimg.com/e/ad/2016/160914/585749449480249646_260x320.jpg"
-      }
-    ],
-    hotgoods: [{
-      "more_pic": "http://img13.yiguoimg.com/e/albums/2017/170630/153403897791357662_800x468.jpg"
-    }, {
-      "more_pic": "http://img14.yiguoimg.com/e/albums/2017/170629/153403897729786589_800x468.jpg",
-    }, {
-      "more_pic": "http://img12.yiguoimg.com/e/albums/2017/170626/153403897618375386_596x379.jpg",
-    }, {
-      "more_pic": "http://img12.yiguoimg.com/e/albums/2017/170621/153403897468003029_800x468.jpg",
-    } 
-    ],
+    newgoods: [],
+    hotgoods: [],
     banner_list: [],
   },
  
@@ -58,6 +41,27 @@ Page({
     });
   },
    
+  getNew_List: function () {
+    let that = this;
+    util.request(api.GetNews).then(function (res) {
+      if (res.Code === 200) {
+        that.setData({
+          newgoods: res.ResultValue
+        })
+      }
+    });
+  },
+
+  getHots_List: function () {
+    let that = this;
+    util.request(api.GetHots).then(function (res) {
+      if (res.Code === 200) {
+        that.setData({
+          hotgoods: res.ResultValue
+        })
+      }
+    });
+  },
   //事件处理函数
   bindViewTap: function () {
     wx.navigateTo({
@@ -71,6 +75,8 @@ Page({
   },
   onLoad: function () {
     this.getBanner_List(); 
+    this.getNew_List();
+    this.getHots_List();
   }
   
 })
