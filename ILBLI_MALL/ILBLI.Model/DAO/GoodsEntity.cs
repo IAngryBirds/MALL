@@ -1,20 +1,23 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ILBLI.Model
 {
+    /// <summary>
+    /// 商品表
+    /// </summary>
     public class GoodsEntity  
     {
 
         /// <summary>
         /// 编号
         /// <summary>
-        [Key]
+        [Key] 
         public int ID { set; get; }
+        /// <summary>
+        /// 商家码
+        /// <summary>
+        public int ShopID { set; get; }
         /// <summary>
         /// 名称
         /// <summary>
@@ -22,7 +25,7 @@ namespace ILBLI.Model
         /// <summary>
         /// 注释
         /// <summary>
-        public string Desc { set; get; }
+        public string Memo { set; get; }
         /// <summary>
         /// 类目ID
         /// <summary>
@@ -34,15 +37,15 @@ namespace ILBLI.Model
         /// <summary>
         /// 价格
         /// <summary>
-        public double Pice { set; get; }
+        public double Price { set; get; }
         /// <summary>
         /// 库存
         /// <summary>
         public double Reserve { set; get; }
         /// <summary>
-        /// 是否启用
+        /// 是否启用 0禁用1启用
         /// <summary>
-        public bool IsEnable { set; get; }
+        public int IsEnable { set; get; }
         /// <summary>
         /// 创建日期 默认为当前时间
         /// <summary>
@@ -55,6 +58,9 @@ namespace ILBLI.Model
         /// 排序号
         /// <summary>
         public double OrderNo { set; get; }
-
+        /// <summary>
+        /// 单位
+        /// <summary>
+        public string Unit { set; get; }
     }
 }

@@ -16,10 +16,16 @@
       <publishTime>12/07/2019 22:53:55</publishTime>
     </File>
     <File Include="bin/ILBLI.Model.dll">
-      <publishTime>12/07/2019 23:09:44</publishTime>
+      <publishTime>12/15/2019 18:49:59</publishTime>
+    </File>
+    <File Include="bin/ILBLI.Model.pdb">
+      <publishTime>12/15/2019 18:49:59</publishTime>
     </File>
     <File Include="bin/ILBLI_MALL.dll">
-      <publishTime>12/07/2019 23:12:40</publishTime>
+      <publishTime>12/15/2019 18:50:03</publishTime>
+    </File>
+    <File Include="bin/ILBLI_MALL.pdb">
+      <publishTime>12/15/2019 18:50:03</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
       <publishTime>12/07/2015 19:04:38</publishTime>
@@ -124,7 +130,7 @@
       <publishTime>12/07/2019 22:53:55</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>12/07/2019 23:09:49</publishTime>
+      <publishTime>12/15/2019 18:19:15</publishTime>
     </File>
   </ItemGroup>
 </Project>

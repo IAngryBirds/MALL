@@ -41,13 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAO\ActivityDetailEntity.cs" />
+    <Compile Include="DAO\ActivityEntity.cs" />
     <Compile Include="DAO\BannerEntity.cs" />
     <Compile Include="DAO\CategoryEntity.cs" />
+    <Compile Include="DAO\GoodsDetailEntity.cs" />
+    <Compile Include="DAO\ShopEntity.cs" />
     <Compile Include="DTO\DetailPage.cs" />
     <Compile Include="DAO\GoodsEntity.cs" />
     <Compile Include="DTO\CommonResult.cs" />
+    <Compile Include="DTO\GoodsModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="DAO\UrlEntity.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

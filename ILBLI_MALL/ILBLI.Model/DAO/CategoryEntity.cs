@@ -20,7 +20,11 @@ namespace ILBLI.Model
         /// <summary>
         /// 类目路径
         /// <summary>
-        public string Path { set; get; }
+        public string Paths { set; get; }
+        /// <summary>
+        /// 商家码
+        /// <summary>
+        public int ShopID { set; get; }
         /// <summary>
         /// 名称
         /// <summary>
@@ -28,7 +32,7 @@ namespace ILBLI.Model
         /// <summary>
         /// 注释
         /// <summary>
-        public string Desc { set; get; }
+        public string Memo { set; get; }
         /// <summary>
         /// 创建日期
         /// <summary>
@@ -42,9 +46,9 @@ namespace ILBLI.Model
         /// <summary>
         public double OrderNo { set; get; }
         /// <summary>
-        /// 是否启用
+        /// 是否启用 0禁用1启用
         /// <summary>
-        public bool IsEnable { set; get; }
+        public int IsEnable { set; get; }
 
 
 
