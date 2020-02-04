@@ -6,6 +6,8 @@ module.exports = {
   GetHots: ApiRootUrl + 'Index/GetHots',//食惠购
   
   GetGoodsList:ApiRootUrl+'List/GetList',//获取分类页数据
+  GetGoodsDetail: ApiRootUrl +'Detail/GetGoodsDetail',//获取明细商品信息
+  GetHotsGoods:ApiRootUrl+'Detail/GetHotGoods',//获取热推商品
   // CatalogList: ApiRootUrl + 'catalog/index',  //分类目录全部分类数据接口
   // CatalogCurrent: ApiRootUrl + 'catalog/current',  //分类目录当前分类数据接口
 
