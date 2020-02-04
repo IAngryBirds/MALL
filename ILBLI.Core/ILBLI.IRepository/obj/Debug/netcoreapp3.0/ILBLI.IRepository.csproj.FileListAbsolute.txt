@@ -1,0 +1,12 @@
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp3.0\Log4net\log4net.config
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp3.0\ILBLI.IRepository.deps.json
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp3.0\ILBLI.IRepository.dll
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp3.0\ILBLI.IRepository.pdb
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp3.0\ILBLI.Unity.dll
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp3.0\ILBLI.Unity.pdb
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp3.0\ILBLI.IRepository.csprojAssemblyReference.cache
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp3.0\ILBLI.IRepository.AssemblyInfoInputs.cache
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp3.0\ILBLI.IRepository.AssemblyInfo.cs
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp3.0\ILBLI.IRepository.csproj.CopyComplete
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp3.0\ILBLI.IRepository.dll
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp3.0\ILBLI.IRepository.pdb

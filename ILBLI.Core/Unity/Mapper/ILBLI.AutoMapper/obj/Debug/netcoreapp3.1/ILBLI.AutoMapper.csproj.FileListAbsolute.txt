@@ -1,0 +1,8 @@
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Mapper\ILBLI.AutoMapper\bin\Debug\netcoreapp3.1\ILBLI.AutoMapper.deps.json
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Mapper\ILBLI.AutoMapper\bin\Debug\netcoreapp3.1\ILBLI.AutoMapper.dll
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Mapper\ILBLI.AutoMapper\bin\Debug\netcoreapp3.1\ILBLI.AutoMapper.pdb
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Mapper\ILBLI.AutoMapper\obj\Debug\netcoreapp3.1\ILBLI.AutoMapper.csprojAssemblyReference.cache
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Mapper\ILBLI.AutoMapper\obj\Debug\netcoreapp3.1\ILBLI.AutoMapper.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Mapper\ILBLI.AutoMapper\obj\Debug\netcoreapp3.1\ILBLI.AutoMapper.AssemblyInfo.cs
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Mapper\ILBLI.AutoMapper\obj\Debug\netcoreapp3.1\ILBLI.AutoMapper.dll
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Mapper\ILBLI.AutoMapper\obj\Debug\netcoreapp3.1\ILBLI.AutoMapper.pdb

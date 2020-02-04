@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{41DDC3BA-5D38-43F3-B44F-E88B85E77DD0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ILBLI.Core</RootNamespace>
+    <AssemblyName>ILBLI.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Aspose.Cells">
+      <HintPath>..\Tools\Aspose.Cells.dll</HintPath>
+    </Reference>
+    <Reference Include="AutoMapper">
+      <HintPath>..\Tools\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Dapper">
+      <HintPath>..\Tools\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\Tools\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\Tools\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Tools\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess">
+      <HintPath>..\Tools\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Interfaces">
+      <HintPath>..\Tools\ServiceStack.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Redis">
+      <HintPath>..\Tools\ServiceStack.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="StackExchange.Redis">
+      <HintPath>..\Tools\StackExchange.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoMappers\CustomMappingProfile.cs" />
+    <Compile Include="AutoMappers\MapperManager.cs" />
+    <Compile Include="Caches\Config\RedisConfigModel.cs" />
+    <Compile Include="Caches\Config\RedisEnum.cs" />
+    <Compile Include="Caches\RedisExchage\RedisExcFactory.cs" />
+    <Compile Include="Caches\RedisExchage\RedisExchangeHelper.cs" />
+    <Compile Include="Caches\RedisExchage\RedisExConfig.cs" />
+    <Compile Include="Caches\WebCache\WebCacheHelper.cs" />
+    <Compile Include="Compare\CompareTModelHelper.cs" />
+    <Compile Include="Compare\Module\CompareDiffResult.cs" />
+    <Compile Include="Compare\Module\CompareRepeatResult.cs" />
+    <Compile Include="DataBase\DataBaseCommon.cs" />
+    <Compile Include="DataBase\DataBaseFactory.cs" />
+    <Compile Include="DataBase\Configurate\DataBaseEnum.cs" />
+    <Compile Include="DataBase\Configurate\DBConfigeString.cs" />
+    <Compile Include="Caches\ICache.cs" />
+    <Compile Include="DataBase\DBHelper\DBPropertyHelper.cs" />
+    <Compile Include="DataBase\DBHelper\IgnoreAttribute.cs" />
+    <Compile Include="DataBase\SQLProvider\EOrderBy.cs" />
+    <Compile Include="DataBase\SQLProvider\ISQLProvider.cs" />
+    <Compile Include="DataBase\SQLProvider\MySqlProvider.cs" />
+    <Compile Include="Email\MailConfigString.cs" />
+    <Compile Include="Email\MailEntity.cs" />
+    <Compile Include="Email\MailManager.cs" />
+    <Compile Include="Log4\LogHelper.cs" />
+    <Compile Include="Log4\LogNHelper.cs" />
+    <Compile Include="Log4\SQL_Log\EventLogLayout.cs" />
+    <Compile Include="Log4\SQL_Log\LogModel.cs" />
+    <Compile Include="Log4\SQL_Log\ParemterConverter.cs" />
+    <Compile Include="Model\CommonResult.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rabbit\RabbitConfigString.cs" />
+    <Compile Include="Rabbit\RabbitMQManager.cs" />
+    <Compile Include="Tools\AESHelper.cs" />
+    <Compile Include="Tools\ConfigManager.cs" />
+    <Compile Include="Tools\CloneCopyExtend.cs" />
+    <Compile Include="Tools\DataTableExtend.cs" />
+    <Compile Include="Tools\DeviceManager.cs" />
+    <Compile Include="Tools\EntityHelper.cs" />
+    <Compile Include="Tools\ExcelHelper.cs" />
+    <Compile Include="Tools\HttpContextExtend.cs" />
+    <Compile Include="Tools\PostManager.cs" />
+    <Compile Include="Tools\RegexHelper.cs" />
+    <Compile Include="Tools\SnowFlowManager.cs" />
+    <Compile Include="Tools\XMLManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Caches\Config\RedisConfig.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Caches\RedisExchage\ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Log4\Log4.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Log4\SQL_Log\Log4.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Unitity\SnowFlak\SnowFlak.csproj">
+      <Project>{7fd7e167-8ac3-4fb8-ae3e-b05e2940fc5b}</Project>
+      <Name>SnowFlak</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

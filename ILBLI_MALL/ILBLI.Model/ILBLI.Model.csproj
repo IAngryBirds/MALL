@@ -46,6 +46,7 @@
     <Compile Include="DAO\BannerEntity.cs" />
     <Compile Include="DAO\CategoryEntity.cs" />
     <Compile Include="DAO\GoodsDetailEntity.cs" />
+    <Compile Include="DAO\ReviewsEntity.cs" />
     <Compile Include="DAO\ShopEntity.cs" />
     <Compile Include="DTO\DetailPage.cs" />
     <Compile Include="DAO\GoodsEntity.cs" />

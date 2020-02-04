@@ -44,6 +44,8 @@ C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI_MALL\bin\System.Web.Http.WebHost.xml
 C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI_MALL\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
 C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI_MALL\bin\zh-Hans\System.Web.Http.resources.dll
 C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI_MALL\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
-C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI_MALL\obj\Debug\ILBLI_MALL.csprojResolveAssemblyReference.cache
 C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI_MALL\obj\Debug\ILBLI_MALL.dll
 C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI_MALL\obj\Debug\ILBLI_MALL.pdb
+C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI_MALL\obj\Debug\ILBLI_MALL.csprojAssemblyReference.cache
+C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI_MALL\obj\Debug\ILBLI_MALL.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI_MALL\obj\Debug\ILBLI_MALL.csproj.CopyComplete

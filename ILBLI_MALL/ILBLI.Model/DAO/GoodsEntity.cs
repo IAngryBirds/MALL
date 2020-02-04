@@ -62,5 +62,10 @@ namespace ILBLI.Model
         /// 单位
         /// <summary>
         public string Unit { set; get; }
+        /// <summary>
+        /// 规格 eg:100/箱
+        /// <summary>
+        public string Specs { set; get; }
+
     }
 }

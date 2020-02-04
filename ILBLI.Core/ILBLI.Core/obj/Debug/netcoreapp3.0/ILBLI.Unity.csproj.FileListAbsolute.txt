@@ -1,0 +1,9 @@
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Core\bin\Debug\netcoreapp3.0\Log4net\log4net.config
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Core\bin\Debug\netcoreapp3.0\ILBLI.Unity.deps.json
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Core\bin\Debug\netcoreapp3.0\ILBLI.Unity.dll
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Core\bin\Debug\netcoreapp3.0\ILBLI.Unity.pdb
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Core\obj\Debug\netcoreapp3.0\ILBLI.Unity.AssemblyInfoInputs.cache
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Core\obj\Debug\netcoreapp3.0\ILBLI.Unity.AssemblyInfo.cs
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Core\obj\Debug\netcoreapp3.0\ILBLI.Unity.dll
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Core\obj\Debug\netcoreapp3.0\ILBLI.Unity.pdb
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Core\obj\Debug\netcoreapp3.0\ILBLI.Unity.csprojAssemblyReference.cache
