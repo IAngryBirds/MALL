@@ -1,0 +1,5 @@
+C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI.Model\bin\Debug\ILBLI.Model.dll
+C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI.Model\bin\Debug\ILBLI.Model.pdb
+C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI.Model\obj\Debug\ILBLI.Model.dll
+C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI.Model\obj\Debug\ILBLI.Model.pdb
+C:\张杰\GITHUB\MALL\ILBLI_MALL\ILBLI.Model\obj\Debug\ILBLI.Model.csproj.CoreCompileInputs.cache

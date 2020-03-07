@@ -1,0 +1,13 @@
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\bin\Debug\netcoreapp2.2\Log4net\log4net.config
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\bin\Debug\netcoreapp2.2\ILBLI.Model.deps.json
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\bin\Debug\netcoreapp2.2\ILBLI.Model.dll
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\bin\Debug\netcoreapp2.2\ILBLI.Model.pdb
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\bin\Debug\netcoreapp2.2\ILBLI.Unity.dll
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\bin\Debug\netcoreapp2.2\ILBLI.Unity.pdb
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\obj\Debug\netcoreapp2.2\ILBLI.Model.csprojAssemblyReference.cache
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\obj\Debug\netcoreapp2.2\ILBLI.Model.csproj.CoreCompileInputs.cache
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\obj\Debug\netcoreapp2.2\ILBLI.Model.AssemblyInfoInputs.cache
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\obj\Debug\netcoreapp2.2\ILBLI.Model.AssemblyInfo.cs
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\obj\Debug\netcoreapp2.2\ILBLI.Model.csproj.CopyComplete
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\obj\Debug\netcoreapp2.2\ILBLI.Model.dll
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.Model\obj\Debug\netcoreapp2.2\ILBLI.Model.pdb

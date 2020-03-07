@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--这是配置模板仅供参考-->
+<ArrayOfRedisConfigModel >
+  <RedisConfigModel>
+    <RedisConfigCode>CommonRedis</RedisConfigCode>
+    <RedisMasterList>
+      <RedisConnectionModel>
+        <RedisAddress>127.0.0.1</RedisAddress>
+        <RedisPort>80810</RedisPort>
+        <RedisPassWord>123</RedisPassWord>
+      </RedisConnectionModel>
+    </RedisMasterList>
+    <RedisSlaveList>
+      <RedisConnectionModel>
+        <RedisAddress>127.0.0.1</RedisAddress>
+        <RedisPort>80810</RedisPort>
+        <RedisPassWord>123</RedisPassWord>
+      </RedisConnectionModel>
+    </RedisSlaveList>
+    <MaxReadPoolSize>100</MaxReadPoolSize>
+    <MaxWritePoolSize>100</MaxWritePoolSize>
+    <AutoStart>false</AutoStart>
+  </RedisConfigModel>
+  <RedisConfigModel>
+    <RedisConfigCode>PrivateRedis</RedisConfigCode>
+    <RedisMasterList>
+      <RedisConnectionModel>
+        <RedisAddress>127.0.0.1</RedisAddress>
+        <RedisPort>8080</RedisPort>
+        <RedisPassWord>123</RedisPassWord>
+      </RedisConnectionModel>
+    </RedisMasterList>
+    <RedisSlaveList>
+      <RedisConnectionModel>
+        <RedisAddress>127.0.0.1</RedisAddress>
+        <RedisPort>8080</RedisPort>
+        <RedisPassWord>123</RedisPassWord>
+      </RedisConnectionModel>
+    </RedisSlaveList>
+    <MaxReadPoolSize>100</MaxReadPoolSize>
+    <MaxWritePoolSize>100</MaxWritePoolSize>
+    <AutoStart>false</AutoStart>
+  </RedisConfigModel>
+</ArrayOfRedisConfigModel>

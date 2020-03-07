@@ -1,0 +1,23 @@
+{
+  "JsonMQConfig": 
+  {
+    "HostServer": {
+      "HostName": [ "localhost" ],
+      "UserName": "ilbli",
+      "Password": "123456",
+      "Port": "15672"
+    },
+    "Queues": [
+      {
+        "QueueKey": "OATest",
+        "ExchangeName": "ILBLI.Exchange",
+        "ExchangeType": "direct",
+        "QueueName": "OATest",
+        "RoutingKey": "OATest",
+        "AutoDelete": false,
+        "Durable": true,
+        "PrefetchCount": 300
+      }
+    ]
+  }
+}

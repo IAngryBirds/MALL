@@ -1,0 +1,13 @@
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.JwtAuthication\bin\Debug\netcoreapp3.1\ILBLI.JwtAuthication.deps.json
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.JwtAuthication\bin\Debug\netcoreapp3.1\ILBLI.JwtAuthication.dll
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.JwtAuthication\obj\Debug\netcoreapp3.1\ILBLI.JwtAuthication.AssemblyInfoInputs.cache
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.JwtAuthication\obj\Debug\netcoreapp3.1\ILBLI.JwtAuthication.AssemblyInfo.cs
+D:\资料库\ILBLI_CORE\ILBLI.Core\ILBLI.JwtAuthication\obj\Debug\netcoreapp3.1\ILBLI.JwtAuthication.csprojAssemblyReference.cache
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.JwtAuthication\bin\Debug\netcoreapp3.1\ILBLI.JwtAuthication.deps.json
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.JwtAuthication\bin\Debug\netcoreapp3.1\ILBLI.JwtAuthication.dll
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.JwtAuthication\bin\Debug\netcoreapp3.1\ILBLI.JwtAuthication.pdb
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.JwtAuthication\obj\Debug\netcoreapp3.1\ILBLI.JwtAuthication.csprojAssemblyReference.cache
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.JwtAuthication\obj\Debug\netcoreapp3.1\ILBLI.JwtAuthication.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.JwtAuthication\obj\Debug\netcoreapp3.1\ILBLI.JwtAuthication.AssemblyInfo.cs
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.JwtAuthication\obj\Debug\netcoreapp3.1\ILBLI.JwtAuthication.dll
+C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.JwtAuthication\obj\Debug\netcoreapp3.1\ILBLI.JwtAuthication.pdb
