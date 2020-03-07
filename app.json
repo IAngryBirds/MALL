@@ -1,10 +1,11 @@
 {
   "pages": [
-    "pages/yiguo/index/index",
-    "pages/yiguo/list/list",
-    "pages/yiguo/cart/cart",
-    "pages/yiguo/mine/mine",
-    "pages/yiguo/detail/detail"
+    "pages/index/index",
+    "pages/list/list",
+    "pages/cart/cart",
+    "pages/mine/mine",
+    "pages/detail/detail",
+    "pages/order/order"
   ],
   "tabBar": {
     "color": "#858585",
@@ -13,25 +14,25 @@
     "borderStyle": "white",
     "list": [
       {
-        "pagePath": "pages/yiguo/index/index",
+        "pagePath": "pages/index/index",
         "iconPath": "images/icons/btn-tabs_01.png",
         "selectedIconPath": "images/icons/btn-tabs_07.png",
         "text": "首页"
       },
       {
-        "pagePath": "pages/yiguo/list/list",
+        "pagePath": "pages/list/list",
         "iconPath": "images/icons/btn-tabs_03.png",
         "selectedIconPath": "images/icons/btn-tabs_08.png",
         "text": "分类"
       },
       {
-        "pagePath": "pages/yiguo/cart/cart",
+        "pagePath": "pages/cart/cart",
         "iconPath": "images/icons/btn-tabs_05.png",
         "selectedIconPath": "images/icons/btn-tabs_09.png",
         "text": "购物车"
       },
       {
-        "pagePath": "pages/yiguo/mine/mine",
+        "pagePath": "pages/mine/mine",
         "iconPath": "images/icons/btn-tabs_06.png",
         "selectedIconPath": "images/icons/btn-tabs_10.png",
         "text": "我的"
