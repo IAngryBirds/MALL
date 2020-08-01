@@ -1,8 +1,0 @@
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Container\ILBLI.Autofac\bin\Debug\netcoreapp3.1\ILBLI.Autofac.deps.json
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Container\ILBLI.Autofac\bin\Debug\netcoreapp3.1\ILBLI.Autofac.dll
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Container\ILBLI.Autofac\bin\Debug\netcoreapp3.1\ILBLI.Autofac.pdb
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.Autofac.csprojAssemblyReference.cache
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.Autofac.AssemblyInfoInputs.cache
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.Autofac.AssemblyInfo.cs
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.Autofac.dll
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Container\ILBLI.Autofac\obj\Debug\netcoreapp3.1\ILBLI.Autofac.pdb

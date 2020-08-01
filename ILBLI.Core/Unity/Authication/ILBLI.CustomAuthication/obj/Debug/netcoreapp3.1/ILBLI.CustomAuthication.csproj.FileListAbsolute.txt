@@ -1,8 +1,0 @@
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.CustomAuthication\bin\Debug\netcoreapp3.1\ILBLI.CustomAuthication.deps.json
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.CustomAuthication\bin\Debug\netcoreapp3.1\ILBLI.CustomAuthication.dll
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.CustomAuthication\bin\Debug\netcoreapp3.1\ILBLI.CustomAuthication.pdb
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.csprojAssemblyReference.cache
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.AssemblyInfoInputs.cache
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.AssemblyInfo.cs
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.dll
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.pdb

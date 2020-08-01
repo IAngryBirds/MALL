@@ -1,8 +1,0 @@
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\ILBLI.Tool\bin\Debug\netcoreapp3.1\ILBLI.Tool.deps.json
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\ILBLI.Tool\bin\Debug\netcoreapp3.1\ILBLI.Tool.dll
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\ILBLI.Tool\bin\Debug\netcoreapp3.1\ILBLI.Tool.pdb
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.csprojAssemblyReference.cache
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.AssemblyInfoInputs.cache
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.AssemblyInfo.cs
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.dll
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.pdb

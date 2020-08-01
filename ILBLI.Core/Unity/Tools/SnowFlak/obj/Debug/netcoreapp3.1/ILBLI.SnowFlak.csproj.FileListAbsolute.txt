@@ -1,8 +1,0 @@
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Tools\SnowFlak\bin\Debug\netcoreapp3.1\ILBLI.SnowFlak.deps.json
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Tools\SnowFlak\bin\Debug\netcoreapp3.1\ILBLI.SnowFlak.dll
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Tools\SnowFlak\bin\Debug\netcoreapp3.1\ILBLI.SnowFlak.pdb
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Tools\SnowFlak\obj\Debug\netcoreapp3.1\ILBLI.SnowFlak.csprojAssemblyReference.cache
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Tools\SnowFlak\obj\Debug\netcoreapp3.1\ILBLI.SnowFlak.AssemblyInfoInputs.cache
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Tools\SnowFlak\obj\Debug\netcoreapp3.1\ILBLI.SnowFlak.AssemblyInfo.cs
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Tools\SnowFlak\obj\Debug\netcoreapp3.1\ILBLI.SnowFlak.dll
-C:\张杰\GITHUB\MALL\ILBLI.Core\Unity\Tools\SnowFlak\obj\Debug\netcoreapp3.1\ILBLI.SnowFlak.pdb
